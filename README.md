@@ -53,10 +53,10 @@
 * [Yes, androids do dream of electric sheep](https://www.theguardian.com/technology/2015/jun/18/google-image-recognition-neural-network-androids-dream-electric-sheep)
 
 ## Sources of Datasets
-* [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 * [Insight Project Datasets](http://mlg.ucd.ie/datasets/)
 * [John Burkhardt's Datasets](https://people.sc.fsu.edu/~jburkardt/datasets/datasets.html)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [OR-Brescia Instances](http://or-brescia.unibs.it/instances)
 * [OR-LIBRARY](people.brunel.ac.uk/~mastjjb/jeb/info.html)
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
