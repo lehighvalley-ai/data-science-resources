@@ -40,13 +40,13 @@
 
 ## Online Courses
 * [Advanced Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/aml)
-** [Introduction to Deep Learning (Course 1 of 7)](https://www.coursera.org/learn/intro-to-deep-learning)
-** [How to Win a Data Science Competition: Learn from Top Kagglers (Course 2 of 7)](https://www.coursera.org/learn/competitive-data-science)
-** [Bayesian Methods for Machine Learning (Course 3 of 7)](https://www.coursera.org/learn/bayesian-methods-in-machine-learning)
-** [Practical Reinforcement Learning (Course 4 of 7)](https://www.coursera.org/learn/practical-rl)
-** [Deep Learning in Computer Vision (Course 5 of 7)](https://www.coursera.org/learn/deep-learning-in-computer-vision)
-** [Natural Language Processing (Course 6 of 7)](https://www.coursera.org/learn/language-processing)
-** [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning)
+  * [Introduction to Deep Learning (Course 1 of 7)](https://www.coursera.org/learn/intro-to-deep-learning)
+  * [How to Win a Data Science Competition: Learn from Top Kagglers (Course 2 of 7)](https://www.coursera.org/learn/competitive-data-science)
+  * [Bayesian Methods for Machine Learning (Course 3 of 7)](https://www.coursera.org/learn/bayesian-methods-in-machine-learning)
+  * [Practical Reinforcement Learning (Course 4 of 7)](https://www.coursera.org/learn/practical-rl)
+  * [Deep Learning in Computer Vision (Course 5 of 7)](https://www.coursera.org/learn/deep-learning-in-computer-vision)
+  * [Natural Language Processing (Course 6 of 7)](https://www.coursera.org/learn/language-processing)
+  * [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning)
 
 ## Philosophy / Futurism / "Where Is It All Going?"
 
