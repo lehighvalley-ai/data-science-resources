@@ -22,8 +22,8 @@
 * [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
 * [Why AI will not replace radiologists](https://towardsdatascience.com/why-ai-will-not-replace-radiologists-c7736f2c7d80)
 * [Why use Machine Learning Instead of Traditional Statistics?](https://towardsdatascience.com/why-use-machine-learning-instead-of-traditional-statistics-334c2213700a)
-## Books
 
+## Books
 * [Forecasting: Principles and Practice](https://otexts.org/fpp2/)
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
 
@@ -49,12 +49,11 @@
   * [Addressing Large Hadron Collider Challenges by Machine Learning (Course 7 of 7)](https://www.coursera.org/learn/hadron-collider-machine-learning)
 
 ## Philosophy / Futurism / "Where Is It All Going?"
-
 * [Thought-Reading Machines and the Death of Love](https://www.wired.com/story/ideas-jason-pontin-openwater/)
 * [Yes, androids do dream of electric sheep](https://www.theguardian.com/technology/2015/jun/18/google-image-recognition-neural-network-androids-dream-electric-sheep)
 
 ## Sources of Datasets
-* [Datasets from Kaggle](https://www.kaggle.com/datasets)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 * [Insight Project Datasets](http://mlg.ucd.ie/datasets/)
 * [John Burkhardt's Datasets](https://people.sc.fsu.edu/~jburkardt/datasets/datasets.html)
