@@ -22,7 +22,13 @@
 * [Forecasting: Principles and Practice](https://otexts.org/fpp2/)
 
 ## News
+* [Analytics Vidhya](https://www.analyticsvidhya.com/)
 * [Artificial Intelligence and Deep Learning Weekly](http://aidl.io/)
+* [Data Elixir](https://dataelixir.com/)
+* [Data Science Weekly](https://www.datascienceweekly.org/)
+* [KDNuggets](https://www.kdnuggets.com/)
+* [O'Reilly Data Newsletter](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
+* [The Analytics Dispatch](https://community.modeanalytics.com/analytics-dispatch/)
 
 ## Online Courses
 * [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
