@@ -16,6 +16,7 @@
 * [What statisticians think about data scientists](https://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists)
 * [Spiking Neural Networks, the Next Generation of Machine Learning](https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b)
 * [Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research](https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html)
+* [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
 
 ## Books
 * [Forecasting: Principles and Practice](https://otexts.org/fpp2/)
