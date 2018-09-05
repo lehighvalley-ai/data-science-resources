@@ -1,5 +1,4 @@
 # Data Science Resources
-## All in one place
 
 ## Articles
 * [No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3) (uneven but included anyway)
