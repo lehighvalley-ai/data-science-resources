@@ -46,7 +46,7 @@
   * [Practical Reinforcement Learning (Course 4 of 7)](https://www.coursera.org/learn/practical-rl)
   * [Deep Learning in Computer Vision (Course 5 of 7)](https://www.coursera.org/learn/deep-learning-in-computer-vision)
   * [Natural Language Processing (Course 6 of 7)](https://www.coursera.org/learn/language-processing)
-  * [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning)
+  * [Addressing Large Hadron Collider Challenges by Machine Learning (Course 7 of 7)](https://www.coursera.org/learn/hadron-collider-machine-learning)
 
 ## Philosophy / Futurism / "Where Is It All Going?"
 
