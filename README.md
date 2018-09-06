@@ -37,6 +37,7 @@
 * [KDNuggets](https://www.kdnuggets.com/)
 * [O'Reilly Data Newsletter](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 * [The Analytics Dispatch](https://community.modeanalytics.com/analytics-dispatch/)
+* [Reddit /r/MachineLearning](https://reddit.com/r/machinelearning)
 
 ## Online Courses
 * [Advanced Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/aml)
@@ -47,6 +48,7 @@
   * [Deep Learning in Computer Vision (Course 5 of 7)](https://www.coursera.org/learn/deep-learning-in-computer-vision)
   * [Natural Language Processing (Course 6 of 7)](https://www.coursera.org/learn/language-processing)
   * [Addressing Large Hadron Collider Challenges by Machine Learning (Course 7 of 7)](https://www.coursera.org/learn/hadron-collider-machine-learning)
+* [Elements of AI (Finnish Center for Artificial Intelligence)](http://www.elementsofai.com)
 
 ## Philosophy / Futurism / "Where Is It All Going?"
 * [Thought-Reading Machines and the Death of Love](https://www.wired.com/story/ideas-jason-pontin-openwater/)
@@ -62,6 +64,8 @@
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 * [data.world](https://data.world/)
 * [Éric Taillard's Problem Instances](http://mistic.heig-vd.ch/taillard/problemes.dir/problemes.html)
+* [US Government Open Data](https://data.gov)
+* [Reddit Datasets](https://reddit.com/r/datasets)
 
 ## Videos
 * [Deep Learning: A Crash Course](https://www.youtube.com/watch?v=r0Ogt-q956I)
