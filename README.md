@@ -49,6 +49,7 @@
 * [DataScience Newsroom](https://www.datascience.com/newsroom/topic/news)
 * [KDNuggets](https://www.kdnuggets.com/)
 * [O'Reilly Data Newsletter](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
+* [/r/machinelearning](https://reddit.com/r/machinelearning)
 
 ## Online Courses
 * [Advanced Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/aml)
@@ -59,6 +60,7 @@
   * [Deep Learning in Computer Vision (Course 5 of 7)](https://www.coursera.org/learn/deep-learning-in-computer-vision)
   * [Natural Language Processing (Course 6 of 7)](https://www.coursera.org/learn/language-processing)
   * [Addressing Large Hadron Collider Challenges by Machine Learning (Course 7 of 7)](https://www.coursera.org/learn/hadron-collider-machine-learning)
+* [Elements of AI (Finnish Center for Artificial Intelligence)](http://www.elementsofai.com)
 
 ## Philosophy / Futurism / "Quo Vadis?" / "Where Is It All Going?"
 * [Brain implants are happening — are you ready for yours?](https://thenextweb.com/contributors/2018/03/10/brain-implants-happening-ready/)
