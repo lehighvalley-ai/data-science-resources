@@ -1,5 +1,5 @@
 # Data Science Resources
-## "'Data! Data! Data!' he cried impatiently. 'I can't make bricks without clay.'" — Sherlock Holmes, "The Adventure of the Copper Beeches"
+## "'Data! Data! Data!' he cried impatiently. 'I can't make bricks without clay.'" — Sherlock Holmes, *The Adventure of the Copper Beeches*
 
 ## Articles
 * [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1)
@@ -29,17 +29,39 @@
 * [What statisticians think about data scientists](https://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists)
 * [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
 * [What we read about deep learning is just the tip of the iceberg](https://gigaom.com/2014/12/15/what-we-read-about-deep-learning-is-just-the-tip-of-the-iceberg/)
+* [Which is better for data analysis: R or Python? Is R still a better data analysis language than Python?](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python-Is-R-still-a-better-data-analysis-language-than-Python-Has-anyone-else-used-Python-with-Pandas-to-a-large-extent-in-data-analysis-projects)
 * [Why AI will not replace radiologists](https://towardsdatascience.com/why-ai-will-not-replace-radiologists-c7736f2c7d80)
 * [Why use Machine Learning Instead of Traditional Statistics?](https://towardsdatascience.com/why-use-machine-learning-instead-of-traditional-statistics-334c2213700a)
 
 ## Books
+* [The Art of Data Science: A Guide for Anyone](https://leanpub.com/artofdatascience)
+* [Building Data Science Teams: The Skills, Tools and Perspectives Behind Great Data Science Groups](http://amzn.to/1GBc3pq)
+* [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/)
+* [D3.js Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks)
+* [The Data Analytics Handbook: Data Analysts, Data Scientists](https://www.teamleada.com/handbook)
+* [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](http://thedatasciencehandbook.com/)
+* [Data-Driven: Creating a Data Culture](http://amzn.to/1HkaMI5)
 * [Data-Intensive Text Processing with MapReduce](http://users.umiacs.umd.edu/~jimmylin/MapReduce-book-final.pdf)
+* [Deep Learning (Goodfellow, Bengio and Courville)](http://www.deeplearningbook.org/)
+* [The Elements of Data Analytic Style](https://leanpub.com/datastyle)
+* [The Elements of Statistical Learning: Data Mining, Inference and Prediction, 2nd Edition](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [Exploratory Data Analysis with R](https://leanpub.com/exdata)
+* [A First Course in the Design and Analysis of Experiments](http://users.stat.umn.edu/~gary/Book.html)
 * [Forecasting: Principles and Practice](https://otexts.org/fpp2/)
+* [Interactive Data Visualization for the Web: An Introduction to Designing with D3](http://alignedleft.com/work/d3-book)
+* [Introduction to Statistical Learning: With Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+* [Machine Learning Yearning: Technical Strategy for AI Engineers in the Era of Deep Learning](http://www.mlyearning.org/)
 * [Mining of Massive Datasets](http://www.mmds.org/)
+* [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+* [R for Data Science: Visual, Model, Transform, Tidy, and Import Data](http://r4ds.had.co.nz/)
+* [R Programming for Data Science](https://leanpub.com/rprogramming)
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
+* [Think Bayes: Bayesian Statistics Made Simple](https://greenteapress.com/wp/think-bayes/)
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/)
+* [Understanding the Chief Data Officer: How Leading Businesses are Transforming Themselves with Data](https://www.oreilly.com/data/free/understanding-chief-data-officer.csp)
 
 ## News
+* [/r/machinelearning](https://reddit.com/r/machinelearning)
 * [The Analytics Dispatch](https://community.modeanalytics.com/analytics-dispatch/)
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
 * [Artificial Intelligence and Deep Learning Weekly](http://aidl.io/)
@@ -49,7 +71,6 @@
 * [DataScience Newsroom](https://www.datascience.com/newsroom/topic/news)
 * [KDNuggets](https://www.kdnuggets.com/)
 * [O'Reilly Data Newsletter](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
-* [/r/machinelearning](https://reddit.com/r/machinelearning)
 
 ## Online Courses
 * [Advanced Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/aml)
@@ -83,6 +104,7 @@
 * [Academic Torrents](http://academictorrents.com/)
 * [Airbnb Data](http://insideairbnb.com/get-the-data.html)
 * [Amazon Web Services Datasets](https://registry.opendata.aws/) (they have their own f—ing TLD?!?!?!)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) (most of what I highlighted here and then some, by a wide margin)
 * [Bureau of Economic Analysis Data](http://www.bea.gov/data/)
 * [Bureau of Labor Statistics Data](https://www.bls.gov/data/)
 * [BuzzFeed News GitHub Repository](https://github.com/BuzzFeedNews) (yes, that's right: **BuzzFeed**)
