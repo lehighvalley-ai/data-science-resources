@@ -92,7 +92,7 @@
 * [Dataism: God is in the Algorithm](https://medium.com/understanding-us/dataism-god-is-in-the-algorithm-84af800205cd)
 * [Elon Musk just told a group of America’s governors that we need to regulate AI before it’s too late](https://www.recode.net/2017/7/15/15976744/elon-musk-artificial-intelligence-regulations-ai)
 * [How AI-generated music is changing the way hits are made](https://www.theverge.com/2018/8/31/17777008/artificial-intelligence-taryn-southern-amper-music)
-* [Is Modern Technology Creating a Borg-like Society?](https://ieet.org/index.php/IEET2/more/danaher20140609)
+* [Is Modern Technology Creating a Borg-like Society?](https://ieet.org/index.php/IEET2/more/danaher20140609) (not that that's necessarily bad...)
 * [Is the Digital Revolution Sowing the Seeds of a Techno-Fascist Future?](https://truthout.org/articles/is-the-digital-revolution-sowing-the-seeds-of-a-techno-fascist-future/)
 * [Sorry, Y’All—Humanity’s Nearing an Upgrade to Irrelevance](https://www.wired.com/2017/02/yuval-harari-tech-is-the-new-religion/)
 * [The New Religions Obsessed with A.I.](https://www.thedailybeast.com/the-new-religions-obsessed-with-ai)
