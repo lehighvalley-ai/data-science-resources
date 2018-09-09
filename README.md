@@ -7,6 +7,7 @@
 * [The 13 Competing Tribes in Artificial Intelligence](https://www.topbots.com/13-competing-factions-artificial-intelligence-tribes/)
 * [50 external machine learning / data science resources and articles](https://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [66 job interview questions for data scientists](https://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
+* [A comprehensive beginners guide for Linear, Ridge and Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
 * [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 * [Derivation of Backpropagation](https://www.cs.swarthmore.edu/~meeden/cs81/s10/BackPropDeriv.pdf)
 * [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
