@@ -29,6 +29,7 @@
 * [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
 * [The Three Breakthroughs That Have Finally Unleashed AI on the World](https://www.wired.com/2014/10/future-of-artificial-intelligence/)
 * [Using LSTMs to forecast time-series](https://towardsdatascience.com/using-lstms-to-forecast-time-series-4ab688386b1f)
+* [What is the difference between Ridge Regression, the LASSO, and ElasticNet?](https://blog.alexlenail.me/what-is-the-difference-between-ridge-regression-the-lasso-and-elasticnet-ec19c71c9028)
 * [What statisticians think about data scientists](https://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists)
 * [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
 * [What we read about deep learning is just the tip of the iceberg](https://gigaom.com/2014/12/15/what-we-read-about-deep-learning-is-just-the-tip-of-the-iceberg/)
