@@ -3,6 +3,7 @@
 
 ## Articles
 * [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1)
+* [10 reasons why data scientists need to learn Java](https://jaxenter.com/data-scientists-need-to-learn-java-139449.html) (but be careful about books from Packt Publishing: most of them **suck** and their review averages are held up by shills)
 * [10 types of regressions. Which one to use?](https://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use)
 * [The 13 Competing Tribes in Artificial Intelligence](https://www.topbots.com/13-competing-factions-artificial-intelligence-tribes/)
 * [50 external machine learning / data science resources and articles](https://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
