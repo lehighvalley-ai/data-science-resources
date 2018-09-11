@@ -35,6 +35,7 @@
 * [What statisticians think about data scientists](https://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists)
 * [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
 * [What we read about deep learning is just the tip of the iceberg](https://gigaom.com/2014/12/15/what-we-read-about-deep-learning-is-just-the-tip-of-the-iceberg/)
+* [When Bayes, Ockham, and Shannon come together to define machine learning](https://towardsdatascience.com/when-bayes-ockham-and-shannon-come-together-to-define-machine-learning-96422729a1ad)
 * [When should I use lasso vs ridge?](https://stats.stackexchange.com/questions/866/when-should-i-use-lasso-vs-ridge)
 * [Which is better for data analysis: R or Python? Is R still a better data analysis language than Python?](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python-Is-R-still-a-better-data-analysis-language-than-Python-Has-anyone-else-used-Python-with-Pandas-to-a-large-extent-in-data-analysis-projects)
 * [Why AI will not replace radiologists](https://towardsdatascience.com/why-ai-will-not-replace-radiologists-c7736f2c7d80)
