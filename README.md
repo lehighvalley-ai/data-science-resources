@@ -58,6 +58,7 @@
 * [A First Course in the Design and Analysis of Experiments](http://users.stat.umn.edu/~gary/Book.html)
 * [Forecasting: Principles and Practice](https://otexts.org/fpp2/)
 * [Interactive Data Visualization for the Web: An Introduction to Designing with D3](http://alignedleft.com/work/d3-book)
+* [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
 * [Introduction to Statistical Learning: With Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 * [Machine Learning Yearning: Technical Strategy for AI Engineers in the Era of Deep Learning](http://www.mlyearning.org/)
 * [Mining of Massive Datasets](http://www.mmds.org/)
