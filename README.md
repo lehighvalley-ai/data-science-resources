@@ -8,6 +8,7 @@
 * [The 13 Competing Tribes in Artificial Intelligence](https://www.topbots.com/13-competing-factions-artificial-intelligence-tribes/)
 * [50 external machine learning / data science resources and articles](https://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [66 job interview questions for data scientists](https://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
+* [The Best Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
 * [Compare the effect of different scalers on data with outliers](http://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
 * [A comprehensive beginners guide for Linear, Ridge and Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
 * [Curious About How To Be A Data Scientist? Hear From A Netflix Data Scientist](https://towardsdatascience.com/a-peek-into-a-netflix-data-scientists-day-66bf3dacabb9)
