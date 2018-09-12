@@ -6,6 +6,7 @@
 * [10 reasons why data scientists need to learn Java](https://jaxenter.com/data-scientists-need-to-learn-java-139449.html) (but be careful about books from Packt Publishing: most of them **suck** and their review averages are held up by shills)
 * [10 types of regressions. Which one to use?](https://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use)
 * [The 13 Competing Tribes in Artificial Intelligence](https://www.topbots.com/13-competing-factions-artificial-intelligence-tribes/)
+* [25 fun questions for a machine learning interview](https://medium.com/analytics-vidhya/25-fun-questions-for-a-machine-learning-interview-373b744a4faa) (some of these are quite technical)
 * [50 external machine learning / data science resources and articles](https://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [66 job interview questions for data scientists](https://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
 * [The Best Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
