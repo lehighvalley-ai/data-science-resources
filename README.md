@@ -15,6 +15,7 @@
 * [Curious About How To Be A Data Scientist? Hear From A Netflix Data Scientist](https://towardsdatascience.com/a-peek-into-a-netflix-data-scientists-day-66bf3dacabb9)
 * [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 * [Data Science—Curse of Dimensionality](https://medium.com/@kguruswamy_37814/data-science-curse-of-dimensionality-34e018958299)
+* [Dealing with Imbalanced Classes in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
 * [Derivation of Backpropagation](https://www.cs.swarthmore.edu/~meeden/cs81/s10/BackPropDeriv.pdf)
 * [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
 * [Google launches new search engine to help scientists find the datasets they need](https://www.theverge.com/2018/9/5/17822562/google-dataset-search-service-scholar-scientific-journal-open-data-access)
