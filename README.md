@@ -115,6 +115,7 @@
   * [Natural Language Processing (Course 6 of 7)](https://www.coursera.org/learn/language-processing)
   * [Addressing Large Hadron Collider Challenges by Machine Learning (Course 7 of 7)](https://www.coursera.org/learn/hadron-collider-machine-learning)
 * [Data Camp](https://www.datacamp.com)
+* [Data School](https://www.dataschool.io/)
 * [Data-Driven Astronomy (Coursera)](https://www.coursera.org/learn/data-driven-astronomy)
 * [Elements of AI (Finnish Center for Artificial Intelligence)](http://www.elementsofai.com)
 
