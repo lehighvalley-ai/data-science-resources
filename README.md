@@ -62,7 +62,6 @@
 * [Which is better for data analysis: R or Python? Is R still a better data analysis language than Python?](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python-Is-R-still-a-better-data-analysis-language-than-Python-Has-anyone-else-used-Python-with-Pandas-to-a-large-extent-in-data-analysis-projects)
 * [Which machine learning algorithm to choose for my problem ?](https://recast.ai/blog/machine-learning-algorithms/)
 * [Which one to use - RandomForest vs SVM vs KNN?](https://discuss.analyticsvidhya.com/t/which-one-to-use-randomforest-vs-svm-vs-knn/2897)
-* [Why AI will not replace radiologists](https://towardsdatascience.com/why-ai-will-not-replace-radiologists-c7736f2c7d80)
 * [Why use Machine Learning Instead of Traditional Statistics?](https://towardsdatascience.com/why-use-machine-learning-instead-of-traditional-statistics-334c2213700a)
 
 ## Books
@@ -133,6 +132,7 @@
 * [The Problem with ‘Friendly’ Artificial Intelligence](https://www.thenewatlantis.com/publications/the-problem-with-friendly-artificial-intelligence)
 * [Thought-Reading Machines and the Death of Love](https://www.wired.com/story/ideas-jason-pontin-openwater/)
 * [Welcome to the metadata society — and beware](https://gulfnews.com/opinion/thinkers/welcome-to-the-metadata-society-and-beware-1.2264598)
+* [Why AI will not replace radiologists](https://towardsdatascience.com/why-ai-will-not-replace-radiologists-c7736f2c7d80)
 * [Why the robot boost is yet to arrive](https://medium.com/financial-times/why-the-robot-boost-is-yet-to-arrive-95c69db7fd22)
 * [The Workplace of the Future](https://medium.com/@the_economist/the-workplace-of-the-future-d8074baa287d)
 * [Yes, androids do dream of electric sheep](https://www.theguardian.com/technology/2015/jun/18/google-image-recognition-neural-network-androids-dream-electric-sheep)
