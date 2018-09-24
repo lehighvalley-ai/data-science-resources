@@ -118,6 +118,7 @@
 * [Data School](https://www.dataschool.io/)
 * [Data-Driven Astronomy (Coursera)](https://www.coursera.org/learn/data-driven-astronomy)
 * [Elements of AI (Finnish Center for Artificial Intelligence)](http://www.elementsofai.com)
+* [The Open Source Data Science Masters](http://datasciencemasters.org/)
 
 ## Philosophy / Futurism / "Quo Vadis?" / "Where Is It All Going?"
 * [As Machines Get Smarter, Evidence They Learn Like Us](https://www.quantamagazine.org/as-machines-get-smarter-evidence-they-learn-like-us-20130723/)
