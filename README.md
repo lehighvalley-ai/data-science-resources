@@ -125,6 +125,7 @@
 * [A Brain Built From Atomic Switches Can Learn](https://www.quantamagazine.org/a-brain-built-from-atomic-switches-can-learn-20170920/)
 * [Brain implants are happening — are you ready for yours?](https://thenextweb.com/contributors/2018/03/10/brain-implants-happening-ready/)
 * [Can a Machine Be Conscious?](https://motherboard.vice.com/en_us/article/bj7vda/can-a-machine-be-conscious)
+* [China’s leaders are softening their stance on AI](https://www.technologyreview.com/s/612141/chinas-leaders-are-calling-for-international-collaboration-on-ai/)
 * [Christianity Versus Transhumanism](https://www.wired.com/2010/09/christianity-versus-transhumanism/)
 * [Dataism: God is in the Algorithm](https://medium.com/understanding-us/dataism-god-is-in-the-algorithm-84af800205cd)
 * [Elon Musk just told a group of America’s governors that we need to regulate AI before it’s too late](https://www.recode.net/2017/7/15/15976744/elon-musk-artificial-intelligence-regulations-ai)
