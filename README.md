@@ -155,6 +155,7 @@
 * [Why AI will not replace radiologists](https://towardsdatascience.com/why-ai-will-not-replace-radiologists-c7736f2c7d80)
 * [Why the robot boost is yet to arrive](https://medium.com/financial-times/why-the-robot-boost-is-yet-to-arrive-95c69db7fd22)
 * [Why the U.S. Is Backing Killer Robots](https://www.popularmechanics.com/military/research/a23133118/us-ai-robots-warfare/)
+* [The Work of Art in the Age of Algorithmic Reproduction](https://medium.com/s/living-in-the-machine/the-work-of-art-in-the-age-of-algorithmic-reproduction-bd3bd9b4e236)
 * [The Workplace of the Future](https://medium.com/@the_economist/the-workplace-of-the-future-d8074baa287d)
 * [Yes, androids do dream of electric sheep](https://www.theguardian.com/technology/2015/jun/18/google-image-recognition-neural-network-androids-dream-electric-sheep)
 * [Yuval Noah Harari on big data, Google and the end of free will](https://www.ft.com/content/50bb4830-6a4c-11e6-ae5b-a7cc5dd5a28c)
