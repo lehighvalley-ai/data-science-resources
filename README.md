@@ -130,6 +130,7 @@
 * [DataCamp](https://www.datacamp.com)
 * [Data School](https://www.dataschool.io/)
 * [Data-Driven Astronomy (Coursera)](https://www.coursera.org/learn/data-driven-astronomy)
+* [Deep Learning for Coders (fast.ai)](http://course.fast.ai/)
 * [Elements of AI (Finnish Center for Artificial Intelligence)](http://www.elementsofai.com)
 * [The Open Source Data Science Masters](http://datasciencemasters.org/)
 
