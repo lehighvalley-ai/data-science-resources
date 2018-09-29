@@ -2,6 +2,7 @@
 ## "'Data! Data! Data!' he cried impatiently. 'I can't make bricks without clay.'" — Sherlock Holmes, *The Adventure of the Copper Beeches*
 
 ## Articles / Threads
+* [5 Reasons why Businesses Struggle to Adopt Deep Learning](https://towardsdatascience.com/5-reasons-why-businesses-struggle-to-adopt-deep-learning-85205e11d69a)
 * [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1)
 * [10 reasons why data scientists need to learn Java](https://jaxenter.com/data-scientists-need-to-learn-java-139449.html) (but be careful about books from Packt Publishing: most of them **suck** and their review averages are held up by shills)
 * [10 types of regressions. Which one to use?](https://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use)
@@ -16,9 +17,11 @@
 * [A comprehensive beginners guide for Linear, Ridge and Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
 * [Curious About How To Be A Data Scientist? Hear From A Netflix Data Scientist](https://towardsdatascience.com/a-peek-into-a-netflix-data-scientists-day-66bf3dacabb9)
 * [Custom Loss functions for Deep Learning: Predicting Home Values with Keras for R](https://towardsdatascience.com/custom-loss-functions-for-deep-learning-predicting-home-values-with-keras-for-r-532c9e098d1f)
+* [Custom Loss Functions for Gradient Boosting](https://towardsdatascience.com/custom-loss-functions-for-gradient-boosting-f79c1b40466d)
 * [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 * [Data Science—Curse of Dimensionality](https://medium.com/@kguruswamy_37814/data-science-curse-of-dimensionality-34e018958299)
 * [Dealing with Imbalanced Classes in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
+* [Deep Learning Framework Power Scores 2018](https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a)
 * [Derivation of Backpropagation](https://www.cs.swarthmore.edu/~meeden/cs81/s10/BackPropDeriv.pdf)
 * [A Dirty Dozen: Twelve P-Value Misconceptions](http://www.perfendo.org/docs/BayesProbability/twelvePvaluemisconceptions.pdf)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
@@ -27,6 +30,7 @@
 * [How do we decide which machine learning algorithm to use for a specified problem?](https://www.researchgate.net/post/How_do_we_decide_which_machine_learning_algorithm_to_use_for_a_specified_problem)
 * [How To Estimate Model Accuracy in R Using The Caret Package](https://machinelearningmastery.com/how-to-estimate-model-accuracy-in-r-using-the-caret-package/)
 * [How To Learn Data Science If You’re Broke](https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7)
+* [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 * [Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research](https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html)
 * [Learn Generalized Linear Models (GLM) Using R](https://www.kdnuggets.com/2017/10/learn-generalized-linear-models-glm-r.html)
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://medium.com/@LiamHanel/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
@@ -38,6 +42,7 @@
 * [Machine Learning vs. Traditional Statistics: Different philosophies, Different Approaches](https://www.datasciencecentral.com/profiles/blogs/machine-learning-vs-traditional-statistics-different-philosophi-1)
 * [Meet the man building an AI that mimics our neocortex – and could kill off neural networks](https://www.theregister.co.uk/2014/03/29/hawkins_ai_feature/)
 * [Modern Machine Learning Algorithms: Strengths and Weaknesses](https://elitedatascience.com/machine-learning-algorithms)
+* [Multi-Class Text Classification Model Comparison and Selection](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
 * [No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3) (uneven but included anyway)
 * [The new data scientist](https://www.bizjournals.com/washington/news/2018/09/05/the-new-data-scientist.html)
 * [Parametric and Nonparametric Machine Learning Algorithms](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
@@ -65,6 +70,7 @@
 * [Which machine learning algorithm to choose for my problem ?](https://recast.ai/blog/machine-learning-algorithms/)
 * [Which one to use - RandomForest vs SVM vs KNN?](https://discuss.analyticsvidhya.com/t/which-one-to-use-randomforest-vs-svm-vs-knn/2897)
 * [Why use Machine Learning Instead of Traditional Statistics?](https://towardsdatascience.com/why-use-machine-learning-instead-of-traditional-statistics-334c2213700a)
+* [Wikipedia Data Science: Working with the World’s Largest Encyclopedia](https://towardsdatascience.com/wikipedia-data-science-working-with-the-worlds-largest-encyclopedia-c08efbac5f5c)
 
 ## Books
 * [The Art of Data Science: A Guide for Anyone](https://leanpub.com/artofdatascience)
@@ -145,6 +151,7 @@
 * [Is the Digital Revolution Sowing the Seeds of a Techno-Fascist Future?](https://truthout.org/articles/is-the-digital-revolution-sowing-the-seeds-of-a-techno-fascist-future/)
 * [Machine Learning Confronts the Elephant in the Room](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
 * [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
+* [The Pentagon Could Get Self-Driving Vehicles First](https://medium.com/bloomberg/the-pentagon-could-get-self-driving-vehicles-first-1505cd3e16f3)
 * [Robot Rides Are Going to Deliver Pizza and Parcels Before People](https://medium.com/bloomberg/robot-rides-are-going-to-deliver-pizza-and-parcels-before-people-c44e64d60984)
 * [Robots Will Transform Fast Food](https://medium.com/the-atlantic/robots-will-transform-fast-food-5e2a40170d56)
 * [Sorry, Y’All—Humanity’s Nearing an Upgrade to Irrelevance](https://www.wired.com/2017/02/yuval-harari-tech-is-the-new-religion/)
@@ -152,6 +159,7 @@
 * [The Problem with ‘Friendly’ Artificial Intelligence](https://www.thenewatlantis.com/publications/the-problem-with-friendly-artificial-intelligence)
 * [Thought-Reading Machines and the Death of Love](https://www.wired.com/story/ideas-jason-pontin-openwater/)
 * [Welcome to the metadata society — and beware](https://gulfnews.com/opinion/thinkers/welcome-to-the-metadata-society-and-beware-1.2264598)
+* [Who’s Winning the Self-Driving Car Race?](https://medium.com/bloomberg/whos-winning-the-self-driving-car-race-39ed1aa58e93)
 * [Why AI will not replace radiologists](https://towardsdatascience.com/why-ai-will-not-replace-radiologists-c7736f2c7d80)
 * [Why the robot boost is yet to arrive](https://medium.com/financial-times/why-the-robot-boost-is-yet-to-arrive-95c69db7fd22)
 * [Why the U.S. Is Backing Killer Robots](https://www.popularmechanics.com/military/research/a23133118/us-ai-robots-warfare/)
