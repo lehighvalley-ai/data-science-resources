@@ -29,6 +29,7 @@
 * [Derivation of Backpropagation](https://www.cs.swarthmore.edu/~meeden/cs81/s10/BackPropDeriv.pdf)
 * [A Dirty Dozen: Twelve P-Value Misconceptions](http://www.perfendo.org/docs/BayesProbability/twelvePvaluemisconceptions.pdf)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+* [Everything you need to know about AutoML and Neural Architecture Search](https://towardsdatascience.com/everything-you-need-to-know-about-automl-and-neural-architecture-search-8db1863682bf)
 * [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
 * [Google launches new search engine to help scientists find the datasets they need](https://www.theverge.com/2018/9/5/17822562/google-dataset-search-service-scholar-scientific-journal-open-data-access)
 * [How do we decide which machine learning algorithm to use for a specified problem?](https://www.researchgate.net/post/How_do_we_decide_which_machine_learning_algorithm_to_use_for_a_specified_problem)
