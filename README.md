@@ -15,6 +15,7 @@
 * [Choosing a Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 * [Compare the effect of different scalers on data with outliers](http://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
 * [Comparing supervised learning algorithms](https://www.dataschool.io/comparing-supervised-learning-algorithms/)
+* [Convolutional Neural Networks for Beginners: Practical Guide with Python and Keras](https://towardsdatascience.com/convolutional-neural-networks-for-beginners-practical-guide-with-python-and-keras-dc688ea90dca)
 * [A comprehensive beginners guide for Linear, Ridge and Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
 * [Curious About How To Be A Data Scientist? Hear From A Netflix Data Scientist](https://towardsdatascience.com/a-peek-into-a-netflix-data-scientists-day-66bf3dacabb9)
 * [Custom Loss functions for Deep Learning: Predicting Home Values with Keras for R](https://towardsdatascience.com/custom-loss-functions-for-deep-learning-predicting-home-values-with-keras-for-r-532c9e098d1f)
