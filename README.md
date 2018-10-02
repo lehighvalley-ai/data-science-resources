@@ -36,6 +36,7 @@
 * [How do we decide which machine learning algorithm to use for a specified problem?](https://www.researchgate.net/post/How_do_we_decide_which_machine_learning_algorithm_to_use_for_a_specified_problem)
 * [How To Estimate Model Accuracy in R Using The Caret Package](https://machinelearningmastery.com/how-to-estimate-model-accuracy-in-r-using-the-caret-package/)
 * [How To Learn Data Science If You’re Broke](https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7)
+* [HumL: Better Text Intelligence with Humans in the Loop](https://towardsdatascience.com/huml-better-text-intelligence-with-humans-in-the-loop-66795d864990)
 * [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 * [Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research](https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html)
 * [Learn Generalized Linear Models (GLM) Using R](https://www.kdnuggets.com/2017/10/learn-generalized-linear-models-glm-r.html)
