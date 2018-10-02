@@ -21,6 +21,8 @@
 * [Custom Loss functions for Deep Learning: Predicting Home Values with Keras for R](https://towardsdatascience.com/custom-loss-functions-for-deep-learning-predicting-home-values-with-keras-for-r-532c9e098d1f)
 * [Custom Loss Functions for Gradient Boosting](https://towardsdatascience.com/custom-loss-functions-for-gradient-boosting-f79c1b40466d)
 * [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
+* [A “Data Science for Good“ Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-one-1977dd701dbc)
+* [A “Data Science for Good” Machine Learning Project Walk-Through in Python: Part Two](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-two-2773bd52daf0)
 * [Data Science—Curse of Dimensionality](https://medium.com/@kguruswamy_37814/data-science-curse-of-dimensionality-34e018958299)
 * [Dealing with Imbalanced Classes in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
 * [Deep Learning Framework Power Scores 2018](https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a)
