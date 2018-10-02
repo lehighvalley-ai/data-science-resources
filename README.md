@@ -32,6 +32,7 @@
 * [Everything you need to know about AutoML and Neural Architecture Search](https://towardsdatascience.com/everything-you-need-to-know-about-automl-and-neural-architecture-search-8db1863682bf)
 * [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
 * [Google launches new search engine to help scientists find the datasets they need](https://www.theverge.com/2018/9/5/17822562/google-dataset-search-service-scholar-scientific-journal-open-data-access)
+* [Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)
 * [How do we decide which machine learning algorithm to use for a specified problem?](https://www.researchgate.net/post/How_do_we_decide_which_machine_learning_algorithm_to_use_for_a_specified_problem)
 * [How To Estimate Model Accuracy in R Using The Caret Package](https://machinelearningmastery.com/how-to-estimate-model-accuracy-in-r-using-the-caret-package/)
 * [How To Learn Data Science If You’re Broke](https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7)
