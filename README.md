@@ -140,6 +140,12 @@
 * [Data School](https://www.dataschool.io/)
 * [Data-Driven Astronomy (Coursera)](https://www.coursera.org/learn/data-driven-astronomy)
 * [Deep Learning for Coders (fast.ai)](http://course.fast.ai/)
+* [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)
+  * [Neural Networks and Deep Learning (Course 1 of 5)](https://www.coursera.org/learn/neural-networks-deep-learning)
+  * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Course 2 of 5)](https://www.coursera.org/learn/deep-neural-network)
+  * [Structuring Machine Learning Projects (Course 3 of 5)](https://www.coursera.org/learn/machine-learning-projects)
+  * [Convolutional Neural Networks (Course 4 of 5)](https://www.coursera.org/learn/convolutional-neural-networks)
+  * [Sequence Models (Course 5 of 5)](https://www.coursera.org/learn/nlp-sequence-models)
 * [Elements of AI (Finnish Center for Artificial Intelligence)](http://www.elementsofai.com)
 * [The Open Source Data Science Masters](http://datasciencemasters.org/)
 
