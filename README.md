@@ -202,6 +202,7 @@
 * [data.medicare.gov](https://data.medicare.gov/)
 * [data.world](https://data.world/)
 * [deeplearning.net Datasets](http://deeplearning.net/datasets/)
+* [Dryad Digital Repository](http://datadryad.org/)
 * [Enron Email Dataset](http://www.cs.cmu.edu/~enron/)
 * [Éric Taillard's Problem Instances](http://mistic.heig-vd.ch/taillard/problemes.dir/problemes.html)
 * [FiveThirtyEight Datasets](https://github.com/fivethirtyeight/data)
