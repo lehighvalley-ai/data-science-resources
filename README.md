@@ -172,6 +172,7 @@
 * [Robot Rides Are Going to Deliver Pizza and Parcels Before People](https://medium.com/bloomberg/robot-rides-are-going-to-deliver-pizza-and-parcels-before-people-c44e64d60984)
 * [Robots Will Transform Fast Food](https://medium.com/the-atlantic/robots-will-transform-fast-food-5e2a40170d56)
 * [Sorry, Y’All—Humanity’s Nearing an Upgrade to Irrelevance](https://www.wired.com/2017/02/yuval-harari-tech-is-the-new-religion/)
+* [The Spooky Genius of Artificial Intelligence](https://www.theatlantic.com/ideas/archive/2018/09/can-artificial-intelligence-be-smarter-than-a-human-being/571498/)
 * [The New Religions Obsessed with A.I.](https://www.thedailybeast.com/the-new-religions-obsessed-with-ai)
 * [The Problem with ‘Friendly’ Artificial Intelligence](https://www.thenewatlantis.com/publications/the-problem-with-friendly-artificial-intelligence)
 * [Thought-Reading Machines and the Death of Love](https://www.wired.com/story/ideas-jason-pontin-openwater/)
