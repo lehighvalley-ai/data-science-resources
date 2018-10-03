@@ -162,6 +162,7 @@
 * [Facebook Uses Artificial Intelligence to Predict Your Future Actions for Advertisers, Says Confidential Document](https://medium.com/theintercept/facebook-uses-artificial-intelligence-to-predict-your-future-actions-for-advertisers-says-bd4377abcbca)
 * [A Fundamental Theory to Model the Mind](https://www.quantamagazine.org/toward-a-theory-of-self-organized-criticality-in-the-brain-20140403/)
 * [How AI-generated music is changing the way hits are made](https://www.theverge.com/2018/8/31/17777008/artificial-intelligence-taryn-southern-amper-music)
+* [How Big Data Is Changing Genetic Research](http://digg.com/2018/big-data-science-genetics)
 * [How the Enlightenment Ends](https://medium.com/the-atlantic/how-the-enlightenment-ends-492b27aad6ff)
 * [Inside the Chinese Lab That Plans to Rewire the World with AI](https://medium.com/mit-technology-review/inside-the-chinese-lab-that-plans-to-rewire-the-world-with-ai-16e1df41e86f)
 * [Is Modern Technology Creating a Borg-like Society?](https://ieet.org/index.php/IEET2/more/danaher20140609) (not that that's necessarily bad...)
