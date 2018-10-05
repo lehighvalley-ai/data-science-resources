@@ -179,6 +179,7 @@
 * [Thought-Reading Machines and the Death of Love](https://www.wired.com/story/ideas-jason-pontin-openwater/)
 * [The US Military Is Funding an Effort to Catch Deepfakes and Other AI Trickery](https://medium.com/mit-technology-review/the-us-military-is-funding-an-effort-to-catch-deepfakes-and-other-ai-trickery-75256531f667)
 * [Welcome to the metadata society — and beware](https://gulfnews.com/opinion/thinkers/welcome-to-the-metadata-society-and-beware-1.2264598)
+* [When Tech Knows You Better Than You Know Yourself](https://www.wired.com/story/artificial-intelligence-yuval-noah-harari-tristan-harris/)
 * [Who’s Winning the Self-Driving Car Race?](https://medium.com/bloomberg/whos-winning-the-self-driving-car-race-39ed1aa58e93)
 * [Why AI will not replace radiologists](https://towardsdatascience.com/why-ai-will-not-replace-radiologists-c7736f2c7d80)
 * [Why Alibaba Is Betting Big on AI Chips and Quantum Computing](https://medium.com/mit-technology-review/why-alibaba-is-betting-big-on-ai-chips-and-quantum-computing-a5bebd7a6b04)
