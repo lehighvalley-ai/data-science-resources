@@ -152,6 +152,7 @@
 ## Philosophy / Futurism / "Quo Vadis?" / "Where Is It All Going?"
 * [As Machines Get Smarter, Evidence They Learn Like Us](https://www.quantamagazine.org/as-machines-get-smarter-evidence-they-learn-like-us-20130723/)
 * [A Brain Built From Atomic Switches Can Learn](https://www.quantamagazine.org/a-brain-built-from-atomic-switches-can-learn-20170920/)
+* [AI on Android mobile phones still a work-in-progress](https://www.zdnet.com/article/ai-on-android-mobile-phones-still-a-work-in-progress/)
 * [Brain implants are happening — are you ready for yours?](https://thenextweb.com/contributors/2018/03/10/brain-implants-happening-ready/)
 * [Can a Machine Be Conscious?](https://motherboard.vice.com/en_us/article/bj7vda/can-a-machine-be-conscious)
 * [China’s leaders are softening their stance on AI](https://www.technologyreview.com/s/612141/chinas-leaders-are-calling-for-international-collaboration-on-ai/)
