@@ -61,6 +61,7 @@
 * [Six categories of Data Scientists](https://www.datasciencecentral.com/profiles/blogs/six-categories-of-data-scientists)
 * [Spiking Neural Networks, the Next Generation of Machine Learning](https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b)
 * [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
+* [Statistical Significance Explained](https://towardsdatascience.com/statistical-significance-hypothesis-testing-the-normal-curve-and-p-values-93274fa32687)
 * [The Three Breakthroughs That Have Finally Unleashed AI on the World](https://www.wired.com/2014/10/future-of-artificial-intelligence/)
 * [Top 10 Machine Learning Algorithms](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
