@@ -210,5 +210,8 @@
 * [World Bank Open Data](https://data.worldbank.org/)
 * [Yelp Open Dataset](https://www.yelp.com/dataset)
 
+## Frameworks/Platforms
+* [Medical Torch](https://medicaltorch.readthedocs.io/en/stable/) (an open-source framework for pytorch, implemeting an extensive set of loaders, pre-processors and datasets for medical imaging)
+
 ## Videos
 * [Deep Learning: A Crash Course](https://www.youtube.com/watch?v=r0Ogt-q956I)
