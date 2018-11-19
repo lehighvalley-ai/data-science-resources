@@ -55,6 +55,7 @@
 * [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 * [Parametric and Nonparametric Machine Learning Algorithms](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
 * [Pros and Cons of Neural Networks](https://towardsdatascience.com/hype-disadvantages-of-neural-networks-6af04904ba5b)
+* [The rare form of machine learning that can spot hackers who have already broken in](https://www.technologyreview.com/s/612427/the-rare-form-of-machine-learning-that-can-spot-hackers-who-have-already-broken-in/)
 * [R vs. Python for Data Science: Summary of Modern Advances](https://elitedatascience.com/r-vs-python-for-data-science)
 * [scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/) (the section on which algorithm to use is *especially* useful)
 * [See Robot Play: an exploration of curiosity in humans and machines.](https://towardsdatascience.com/see-robot-play-an-exploration-of-curiosity-in-humans-and-machines-b384b61b0f7b)
