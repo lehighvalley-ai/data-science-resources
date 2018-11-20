@@ -163,6 +163,7 @@
 * [China wants to shape the global future of artificial intelligence](https://www.technologyreview.com/s/610546/china-wants-to-shape-the-global-future-of-artificial-intelligence/)
 * [China’s AI Awakening 中国 人工智能 的崛起](https://www.technologyreview.com/s/609038/chinas-ai-awakening/)
 * [China’s leaders are softening their stance on AI](https://www.technologyreview.com/s/612141/chinas-leaders-are-calling-for-international-collaboration-on-ai/)
+* [China’s Orwellian Social Credit Score Isn’t Real](https://foreignpolicy.com/2018/11/16/chinas-orwellian-social-credit-score-isnt-real/)
 * [Christianity Versus Transhumanism](https://www.wired.com/2010/09/christianity-versus-transhumanism/)
 * [Dataism: God is in the Algorithm](https://medium.com/understanding-us/dataism-god-is-in-the-algorithm-84af800205cd)
 * [Elon Musk just told a group of America’s governors that we need to regulate AI before it’s too late](https://www.recode.net/2017/7/15/15976744/elon-musk-artificial-intelligence-regulations-ai)
