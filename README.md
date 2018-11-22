@@ -12,6 +12,7 @@
 * [50 external machine learning / data science resources and articles](https://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [66 job interview questions for data scientists](https://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
 * [The Best Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
+* [Black Friday Data Science Hackathon](https://medium.com/data-science-analytics/black-friday-data-science-hackathon-4172a0554944)
 * [Choosing a Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 * [Compare the effect of different scalers on data with outliers](http://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
 * [Comparing supervised learning algorithms](https://www.dataschool.io/comparing-supervised-learning-algorithms/)
