@@ -54,6 +54,7 @@
 * [Machine Learning Algorithms Pros and Cons](https://www.hackingnote.com/en/machine-learning/algorithms-pros-and-cons/)
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 * [Machine Learning vs. Traditional Statistics: Different Philosophies, Different Approaches](https://www.datasciencecentral.com/profiles/blogs/machine-learning-vs-traditional-statistics-different-philosophi-1)
+* [Making Your Neural Network Say "I Don't Know"—Bayesian NNs using Pyro and PyTorch](https://towardsdatascience.com/making-your-neural-network-say-i-dont-know-bayesian-nns-using-pyro-and-pytorch-b1c24e6ab8cd)
 * [Meet the Man Building an AI That Mimics Our Neocortex–and Could Kill Off Neural Networks](https://www.theregister.co.uk/2014/03/29/hawkins_ai_feature/)
 * [Modern Machine Learning Algorithms: Strengths and Weaknesses](https://elitedatascience.com/machine-learning-algorithms)
 * [Multi-Class Text Classification Model Comparison and Selection](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
