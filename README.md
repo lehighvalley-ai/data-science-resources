@@ -4,6 +4,7 @@
 ## "'Data! Data! Data!' he cried impatiently. 'I can't make bricks without clay.'" — Sherlock Holmes, *The Adventure of the Copper Beeches*
 
 ## Articles / Threads
+* [3 Common Data Science Career Transitions and How to Make Them Happen](https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f)
 * [5 Reasons Why Businesses Struggle to Adopt Deep Learning](https://towardsdatascience.com/5-reasons-why-businesses-struggle-to-adopt-deep-learning-85205e11d69a)
 * [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1)
 * [10 Reasons Why Data Scientists Need To Learn Java](https://jaxenter.com/data-scientists-need-to-learn-java-139449.html) (but be careful about books from Packt Publishing: most of them **suck** and their review averages are held up by shills)
