@@ -169,6 +169,7 @@
 * [China's Leaders Are Softening Their Stance on AI](https://www.technologyreview.com/s/612141/chinas-leaders-are-calling-for-international-collaboration-on-ai/)
 * [China's Orwellian Social Credit Score Isn't Real](https://foreignpolicy.com/2018/11/16/chinas-orwellian-social-credit-score-isnt-real/)
 * [Christianity Vs. Transhumanism](https://www.wired.com/2010/09/christianity-versus-transhumanism/)
+* [DARPA to Showcase the Billions It's Investing in "Third Wave" AI Research](https://www.bizjournals.com/washington/news/2018/11/19/darpa-to-showcase-the-billions-its-investing-in.html)
 * [Dataism: God Is in the Algorithm](https://medium.com/understanding-us/dataism-god-is-in-the-algorithm-84af800205cd)
 * [Elon Musk Just Told a Group of America's Governors That We Need to Regulate AI Before It's Too Late](https://www.recode.net/2017/7/15/15976744/elon-musk-artificial-intelligence-regulations-ai)
 * [Facebook Uses Artificial Intelligence to Predict Your Future Actions for Advertisers, Says Confidential Document](https://medium.com/theintercept/facebook-uses-artificial-intelligence-to-predict-your-future-actions-for-advertisers-says-bd4377abcbca)
