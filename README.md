@@ -69,6 +69,7 @@
 * [Pros and Cons of Neural Networks](https://towardsdatascience.com/hype-disadvantages-of-neural-networks-6af04904ba5b)
 * [The Rare Form of Machine Learning That Can Spot Hackers Who Have Already Broken In](https://www.technologyreview.com/s/612427/the-rare-form-of-machine-learning-that-can-spot-hackers-who-have-already-broken-in/)
 * [R vs. Python for Data Science: Summary of Modern Advances](https://elitedatascience.com/r-vs-python-for-data-science)
+* [Reinforcement Learning with Python](https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2)
 * [scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/) (the section on which algorithm to use is *especially* useful)
 * [See Robot Play: an Exploration of Curiosity in Humans and Machines](https://towardsdatascience.com/see-robot-play-an-exploration-of-curiosity-in-humans-and-machines-b384b61b0f7b)
 * [Six Categories of Data Scientists](https://www.datasciencecentral.com/profiles/blogs/six-categories-of-data-scientists)
