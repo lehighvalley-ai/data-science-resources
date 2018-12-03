@@ -180,6 +180,7 @@
 * [Inside the Chinese Lab That Plans to Rewire the World with AI](https://medium.com/mit-technology-review/inside-the-chinese-lab-that-plans-to-rewire-the-world-with-ai-16e1df41e86f)
 * [Is Modern Technology Creating a Borg-like Society?](https://ieet.org/index.php/IEET2/more/danaher20140609) (not that that's necessarily bad...)
 * [Is the Digital Revolution Sowing the Seeds of a Techno-Fascist Future?](https://truthout.org/articles/is-the-digital-revolution-sowing-the-seeds-of-a-techno-fascist-future/)
+* [A Look at the Surprisingly Quarrelsome Field of Artificial Intelligence](https://www.axios.com/artificial-intelligence-disagreements-machine-learning-d26ef884-b415-43c6-aff2-d17a05483389.html)
 * [Machine Learning Confronts the Elephant in the Room](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
 * [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
 * [The Pentagon Could Get Self-Driving Vehicles First](https://medium.com/bloomberg/the-pentagon-could-get-self-driving-vehicles-first-1505cd3e16f3)
