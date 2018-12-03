@@ -47,6 +47,7 @@
 * [HumL: Better Text Intelligence with Humans in the Loop](https://towardsdatascience.com/huml-better-text-intelligence-with-humans-in-the-loop-66795d864990)
 * [Illustrated Guide to LSTM's and GRU's: A Step-by-Step Explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 * [Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research](https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html)
+* [Introduction to Power Analysis in Python](https://towardsdatascience.com/introduction-to-power-analysis-in-python-e7b748dfa26)
 * [Learn Generalized Linear Models (GLM) Using R](https://www.kdnuggets.com/2017/10/learn-generalized-linear-models-glm-r.html)
 * [A List of Artificial Intelligence Tools You Can Use Today—For Personal Use (1/3)](https://medium.com/@LiamHanel/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 * [A List of Artificial Intelligence Tools You Can Use Today—For Businesses (2/3)](https://medium.com/@LiamHanel/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835)
