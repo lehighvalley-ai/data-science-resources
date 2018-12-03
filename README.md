@@ -212,6 +212,7 @@
 * [Why Alibaba Is Betting Big on AI Chips and Quantum Computing](https://medium.com/mit-technology-review/why-alibaba-is-betting-big-on-ai-chips-and-quantum-computing-a5bebd7a6b04)
 * [Why the Robot Boost Is Yet to Arrive](https://medium.com/financial-times/why-the-robot-boost-is-yet-to-arrive-95c69db7fd22)
 * [Why the US Is Backing Killer Robots](https://www.popularmechanics.com/military/research/a23133118/us-ai-robots-warfare/)
+* [Will the Geneva Convention Cover Robots?](https://medium.com/s/story/will-the-geneva-convention-cover-robots-24e7501146d)
 * [The Work of Art in the Age of Algorithmic Reproduction](https://medium.com/s/living-in-the-machine/the-work-of-art-in-the-age-of-algorithmic-reproduction-bd3bd9b4e236)
 * [The Workplace of the Future](https://medium.com/@the_economist/the-workplace-of-the-future-d8074baa287d)
 * [Yes, Androids Do Dream of Electric Sheep](https://www.theguardian.com/technology/2015/jun/18/google-image-recognition-neural-network-androids-dream-electric-sheep)
