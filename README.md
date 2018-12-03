@@ -1,3 +1,5 @@
+<!-- vim:set textwidth=0 -->
+
 # Data Science Resources
 ## "'Data! Data! Data!' he cried impatiently. 'I can't make bricks without clay.'" — Sherlock Holmes, *The Adventure of the Copper Beeches*
 
