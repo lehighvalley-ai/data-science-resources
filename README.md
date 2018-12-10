@@ -52,6 +52,7 @@
 * [Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research](https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html)
 * [Introduction to Power Analysis in Python](https://towardsdatascience.com/introduction-to-power-analysis-in-python-e7b748dfa26)
 * [Learn Generalized Linear Models (GLM) Using R](https://www.kdnuggets.com/2017/10/learn-generalized-linear-models-glm-r.html)
+* [Lesser Known Python Libraries for Data Science](https://medium.com/analytics-vidhya/python-libraries-for-data-science-other-than-pandas-and-numpy-95da30568fad)
 * [A List of Artificial Intelligence Tools You Can Use Today—For Personal Use (1/3)](https://medium.com/@LiamHanel/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 * [A List of Artificial Intelligence Tools You Can Use Today—For Businesses (2/3)](https://medium.com/@LiamHanel/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835)
 * [A List of Artificial Intelligence Tools You Can Use Today—For Businesses (2/3) continued](https://medium.com/@LiamHanel/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-continued-21bf14280250)
