@@ -220,6 +220,7 @@
 * [The Spooky Genius of Artificial Intelligence](https://www.theatlantic.com/ideas/archive/2018/09/can-artificial-intelligence-be-smarter-than-a-human-being/571498/)
 * [The New Religions Obsessed with AI](https://www.thedailybeast.com/the-new-religions-obsessed-with-ai)
 * [The Problem with 'Friendly' Artificial Intelligence](https://www.thenewatlantis.com/publications/the-problem-with-friendly-artificial-intelligence)
+* [Tech CEOs Are in Love with Their Principal Doomsayer](https://medium.com/the-new-york-times/tech-c-e-o-s-are-in-love-with-their-principal-doomsayer-2500f8a63fc7)
 * [Thought-Reading Machines and the Death of Love](https://www.wired.com/story/ideas-jason-pontin-openwater/)
 * [The US Is Hastening Its Own Decline in AI, Says a Top Chinese Investor](https://medium.com/mit-technology-review/the-us-is-hastening-its-own-decline-in-ai-says-a-top-chinese-investor-9a219daf2807)
 * [The US Military Is Funding an Effort to Catch Deepfakes and Other AI Trickery](https://medium.com/mit-technology-review/the-us-military-is-funding-an-effort-to-catch-deepfakes-and-other-ai-trickery-75256531f667)
