@@ -61,6 +61,7 @@
 * [A List of Artificial Intelligence Tools You Can Use Today—For Businesses (2/3)](https://medium.com/@LiamHanel/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835)
 * [A List of Artificial Intelligence Tools You Can Use Today—For Businesses (2/3) continued](https://medium.com/@LiamHanel/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-continued-21bf14280250)
 * [A List of Artificial Intelligence Tools You Can Use Today—For Industry-Specific (3/3)](https://medium.com/@LiamHanel/a-list-of-artificial-intelligence-tools-you-can-use-today-for-industry-specific-3-3-5e16c68da697)
+* ["Logit" of Logistic Regression: Understanding the Fundamentals](https://towardsdatascience.com/logit-of-logistic-regression-understanding-the-fundamentals-f384152a33d1)
 * [Machine Learning Algorithms Pros and Cons](https://www.hackingnote.com/en/machine-learning/algorithms-pros-and-cons/)
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 * [Machine Learning vs. Traditional Statistics: Different Philosophies, Different Approaches](https://www.datasciencecentral.com/profiles/blogs/machine-learning-vs-traditional-statistics-different-philosophi-1)
