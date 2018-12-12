@@ -81,6 +81,7 @@
 * [Roadmap for Conquering Computer Vision](https://towardsdatascience.com/roadmap-for-conquering-computer-vision-213695472ad0)
 * [scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/) (the section on which algorithm to use is *especially* useful)
 * [See Robot Play: an Exploration of Curiosity in Humans and Machines](https://towardsdatascience.com/see-robot-play-an-exploration-of-curiosity-in-humans-and-machines-b384b61b0f7b)
+* [Sentiment Analysis: Machine-Learning Approach](https://medium.com/datadriveninvestor/sentiment-analysis-machine-learning-approach-83e4ba38b57)
 * [Six Categories of Data Scientists](https://www.datasciencecentral.com/profiles/blogs/six-categories-of-data-scientists)
 * [Spiking Neural Networks, the Next Generation of Machine Learning](https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b)
 * [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
