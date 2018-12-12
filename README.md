@@ -182,6 +182,7 @@
 * [A Brain Built From Atomic Switches Can Learn](https://www.quantamagazine.org/a-brain-built-from-atomic-switches-can-learn-20170920/)
 * ["AI, Big Data Will Enable Personalized Education"](http://www.koreatimes.co.kr/www/tech/2018/10/133_257052.html)
 * [AI on Android Mobile Phones Still a Work-in-Progress](https://www.zdnet.com/article/ai-on-android-mobile-phones-still-a-work-in-progress/)
+* [AI Has Grown Up and Left Home](https://medium.com/@NautilusMag/a-i-has-grown-up-and-left-home-814ff2733185)
 * [Brain Implants Are Happening—Are You Ready for Yours?](https://thenextweb.com/contributors/2018/03/10/brain-implants-happening-ready/)
 * [Can a Machine Be Conscious?](https://motherboard.vice.com/en_us/article/bj7vda/can-a-machine-be-conscious)
 * [China Wants to Shape the Global Future of Artificial Intelligence](https://www.technologyreview.com/s/610546/china-wants-to-shape-the-global-future-of-artificial-intelligence/)
