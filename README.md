@@ -74,6 +74,7 @@
 * [Meet the Man Building an AI That Mimics Our Neocortex–and Could Kill Off Neural Networks](https://www.theregister.co.uk/2014/03/29/hawkins_ai_feature/)
 * [Modern Machine Learning Algorithms: Strengths and Weaknesses](https://elitedatascience.com/machine-learning-algorithms)
 * [Multi-Class Text Classification Model Comparison and Selection](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
+* [Multi-Class Text Classification with scikit-learn](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
 * [My Secret Sauce to Be in Top 2% of a Kaggle Competition](https://towardsdatascience.com/my-secret-sauce-to-be-in-top-2-of-a-kaggle-competition-57cff0677d3c)
 * [No, Machine Learning Is Not Just Glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3) (uneven but included anyway)
 * [The New Data Scientist](https://www.bizjournals.com/washington/news/2018/09/05/the-new-data-scientist.html)
