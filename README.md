@@ -19,6 +19,7 @@
 * [Audio Classification using FastAI and On-the-Fly Frequency Transforms](https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89)
 * [The Best Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
 * [Black Friday Data Science Hackathon](https://medium.com/data-science-analytics/black-friday-data-science-hackathon-4172a0554944)
+* [Building and Improving a K-Nearest Neighbors Algorithm in Python](https://towardsdatascience.com/building-improving-a-k-nearest-neighbors-algorithm-in-python-3b6b5320d2f8)
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning and Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 * [Choosing a Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 * [The Cold Start Problem: How to Build Your Machine Learning Portfolio](https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9)
