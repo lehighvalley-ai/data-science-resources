@@ -200,6 +200,7 @@
 * [How Big Data Is Changing Genetic Research](http://digg.com/2018/big-data-science-genetics)
 * [How the Enlightenment Ends](https://medium.com/the-atlantic/how-the-enlightenment-ends-492b27aad6ff)
 * [Inside the Chinese Lab That Plans to Rewire the World with AI](https://medium.com/mit-technology-review/inside-the-chinese-lab-that-plans-to-rewire-the-world-with-ai-16e1df41e86f)
+* [Is Artificial Intelligence Permanently Inscrutable?](https://medium.com/@NautilusMag/is-artificial-intelligence-permanently-inscrutable-bb8b03fd896b)
 * [Is Modern Technology Creating a Borg-like Society?](https://ieet.org/index.php/IEET2/more/danaher20140609) (not that that's necessarily bad...)
 * [Is the Digital Revolution Sowing the Seeds of a Techno-Fascist Future?](https://truthout.org/articles/is-the-digital-revolution-sowing-the-seeds-of-a-techno-fascist-future/)
 * [A Look at the Surprisingly Quarrelsome Field of Artificial Intelligence](https://www.axios.com/artificial-intelligence-disagreements-machine-learning-d26ef884-b415-43c6-aff2-d17a05483389.html)
