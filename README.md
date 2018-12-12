@@ -78,6 +78,7 @@
 * [My Secret Sauce to Be in Top 2% of a Kaggle Competition](https://towardsdatascience.com/my-secret-sauce-to-be-in-top-2-of-a-kaggle-competition-57cff0677d3c)
 * [No, Machine Learning Is Not Just Glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3) (uneven but included anyway)
 * [The New Data Scientist](https://www.bizjournals.com/washington/news/2018/09/05/the-new-data-scientist.html)
+* [Outlier Detection with Isolation Forest](https://towardsdatascience.com/outlier-detection-with-isolation-forest-3d190448d45e)
 * [Over 200 of the Best Machine Learning, NLP, and Python Tutorials—2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 * [Parametric and Nonparametric Machine Learning Algorithms](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
 * [Pros and Cons of Neural Networks](https://towardsdatascience.com/hype-disadvantages-of-neural-networks-6af04904ba5b)
