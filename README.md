@@ -57,6 +57,7 @@
 * [HumL: Better Text Intelligence with Humans in the Loop](https://towardsdatascience.com/huml-better-text-intelligence-with-humans-in-the-loop-66795d864990)
 * [Humanizing Customer Complaints using NLP Algorithms](https://towardsdatascience.com/https-medium-com-vishalmorde-humanizing-customer-complaints-using-nlp-algorithms-64a820cef373)
 * [Illustrated Guide to LSTM's and GRU's: A Step-by-Step Explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+* [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 * [Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research](https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html)
 * [Introduction to Power Analysis in Python](https://towardsdatascience.com/introduction-to-power-analysis-in-python-e7b748dfa26)
 * [An Introduction to Q-Learning: Reinforcement Learning](https://medium.freecodecamp.org/an-introduction-to-q-learning-reinforcement-learning-14ac0b4493cc)
