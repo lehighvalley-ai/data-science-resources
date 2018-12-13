@@ -9,6 +9,7 @@
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
 * [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1)
 * [10 Reasons Why Data Scientists Need To Learn Java](https://jaxenter.com/data-scientists-need-to-learn-java-139449.html) (but be careful about books from Packt Publishing: most of them **suck** and their review averages are held up by shills)
+* [The 10 Statistical Techniques Data Scientists Need to Master](https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
 * [10 Types of Regressions. Which One to Use?](https://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use)
 * [The 13 Competing Tribes in Artificial Intelligence](https://www.topbots.com/13-competing-factions-artificial-intelligence-tribes/)
 * [16 Useful Advices for Aspiring Data Scientists](https://towardsdatascience.com/16-useful-advices-for-aspiring-data-scientists-6da9afa8c72c)
