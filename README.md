@@ -56,6 +56,7 @@
 * [How to Build a Data Science Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
 * [How to Build Your Own Neural Network from Scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 * [How to Develop Your First XGBoost Model in Python with scikit-learn](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
+* [How to Do Everything in Computer Vision](https://towardsdatascience.com/how-to-do-everything-in-computer-vision-2b442c469928)
 * [How to Estimate Model Accuracy in R Using The Caret Package](https://machinelearningmastery.com/how-to-estimate-model-accuracy-in-r-using-the-caret-package/)
 * [How to Learn Data Science If You're Broke](https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7)
 * [HumL: Better Text Intelligence with Humans in the Loop](https://towardsdatascience.com/huml-better-text-intelligence-with-humans-in-the-loop-66795d864990)
