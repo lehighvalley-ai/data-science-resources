@@ -54,6 +54,7 @@
 * [Hands-On Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
 * [Here's How You Can Get a 2-6x Speed-Up on Your Data Pre-Processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)
 * [How Do We Decide Which Machine Learning Algorithm to Use for a Specified Problem?](https://www.researchgate.net/post/How_do_we_decide_which_machine_learning_algorithm_to_use_for_a_specified_problem)
+* [How to Ask the Right Questions as a Data Scientist](https://towardsdatascience.com/how-to-ask-the-right-questions-as-a-data-scientist-913621907411)
 * [How to Build a Data Science Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
 * [How to Build Your Own Neural Network from Scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 * [How to Develop Your First XGBoost Model in Python with scikit-learn](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
