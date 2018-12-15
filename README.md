@@ -109,6 +109,7 @@
 * [Top Examples of Why Data Science is Not Just .fit().predict()](https://towardsdatascience.com/top-examples-of-why-data-science-is-not-just-fit-predict-ce7a13ef7663)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 * [Using LSTMs to Forecast Time Series](https://towardsdatascience.com/using-lstms-to-forecast-time-series-4ab688386b1f)
+* [Vaex: Out of Core Dataframes for Python and Fast Visualization](https://towardsdatascience.com/vaex-out-of-core-dataframes-for-python-and-fast-visualization-12c102db044a)
 * [A "Weird" Introduction to Deep Learning](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
 * [What Are the Advantages and Disadvantages for a Random Forest Algorithm?](https://www.quora.com/What-are-the-advantages-and-disadvantages-for-a-random-forest-algorithm)
 * [What Are the Advantages of Different Classification Algorithms?](https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms)
