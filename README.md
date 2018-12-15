@@ -106,6 +106,7 @@
 * [Statistical Significance Explained](https://towardsdatascience.com/statistical-significance-hypothesis-testing-the-normal-curve-and-p-values-93274fa32687)
 * [The Three Breakthroughs That Have Finally Unleashed AI on the World](https://www.wired.com/2014/10/future-of-artificial-intelligence/)
 * [Top 10 Machine Learning Algorithms](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202)
+* [Top Examples of Why Data Science is Not Just .fit().predict()](https://towardsdatascience.com/top-examples-of-why-data-science-is-not-just-fit-predict-ce7a13ef7663)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 * [Using LSTMs to Forecast Time Series](https://towardsdatascience.com/using-lstms-to-forecast-time-series-4ab688386b1f)
 * [A "Weird" Introduction to Deep Learning](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
