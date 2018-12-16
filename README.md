@@ -203,6 +203,7 @@
 * [As Machines Get Smarter, Evidence They Learn Like Us](https://www.quantamagazine.org/as-machines-get-smarter-evidence-they-learn-like-us-20130723/)
 * [A Brain Built From Atomic Switches Can Learn](https://www.quantamagazine.org/a-brain-built-from-atomic-switches-can-learn-20170920/)
 * ["AI, Big Data Will Enable Personalized Education"](http://www.koreatimes.co.kr/www/tech/2018/10/133_257052.html)
+* [The AI Boom Is Happening All Over the World and It's Accelerating Quickly](https://www.theverge.com/2018/12/12/18136929/artificial-intelligence-ai-index-report-2018-machine-learning-global-progress-research)
 * [AI on Android Mobile Phones Still a Work-in-Progress](https://www.zdnet.com/article/ai-on-android-mobile-phones-still-a-work-in-progress/)
 * [AI Has Grown Up and Left Home](https://medium.com/@NautilusMag/a-i-has-grown-up-and-left-home-814ff2733185)
 * [Brain Implants Are Happening—Are You Ready for Yours?](https://thenextweb.com/contributors/2018/03/10/brain-implants-happening-ready/)
