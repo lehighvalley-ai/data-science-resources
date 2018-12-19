@@ -226,6 +226,7 @@
 * [Is Artificial Intelligence Permanently Inscrutable?](https://medium.com/@NautilusMag/is-artificial-intelligence-permanently-inscrutable-bb8b03fd896b)
 * [Is Modern Technology Creating a Borg-like Society?](https://ieet.org/index.php/IEET2/more/danaher20140609) (not that that's necessarily bad...)
 * [Is the Digital Revolution Sowing the Seeds of a Techno-Fascist Future?](https://truthout.org/articles/is-the-digital-revolution-sowing-the-seeds-of-a-techno-fascist-future/)
+* ["Killer Robots": AI Experts Call for Boycott Over Lab at South Korea University](https://www.theguardian.com/technology/2018/apr/05/killer-robots-south-korea-university-boycott-artifical-intelligence-hanwha)
 * [A Look at the Surprisingly Quarrelsome Field of Artificial Intelligence](https://www.axios.com/artificial-intelligence-disagreements-machine-learning-d26ef884-b415-43c6-aff2-d17a05483389.html)
 * [Machine Learning Confronts the Elephant in the Room](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
 * [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
