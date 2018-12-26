@@ -244,6 +244,7 @@
 * [The US Is Hastening Its Own Decline in AI, Says a Top Chinese Investor](https://medium.com/mit-technology-review/the-us-is-hastening-its-own-decline-in-ai-says-a-top-chinese-investor-9a219daf2807)
 * [The US Military Is Funding an Effort to Catch Deepfakes and Other AI Trickery](https://medium.com/mit-technology-review/the-us-military-is-funding-an-effort-to-catch-deepfakes-and-other-ai-trickery-75256531f667)
 * [Welcome to the Metadata Society—And Beware](https://gulfnews.com/opinion/thinkers/welcome-to-the-metadata-society-and-beware-1.2264598)
+* [What Is AI? Your Artificial Intelligence Questions, Answered](https://www.vox.com/future-perfect/2018/12/21/18126576/ai-artificial-intelligence-machine-learning-safety-alignment)
 * [When Tech Knows You Better Than You Know Yourself](https://www.wired.com/story/artificial-intelligence-yuval-noah-harari-tristan-harris/)
 * [Who Will Own the Robots?](https://www.technologyreview.com/s/538401/who-will-own-the-robots/)
 * [Who's Winning the Self-Driving Car Race?](https://medium.com/bloomberg/whos-winning-the-self-driving-car-race-39ed1aa58e93)
