@@ -120,6 +120,7 @@
 * [What Are the Advantages of Different Classification Algorithms?](https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms)
 * [What Are the Advantages/Disadvantages of Artificial Neural Networks?](https://www.quora.com/What-are-the-advantages-disadvantages-of-Artificial-Neural-networks)
 * [What Is Benford's Law and Why Is It Important for Data Science?](https://towardsdatascience.com/what-is-benfords-law-and-why-is-it-important-for-data-science-312cb8b61048)
+* [What Is Intelligence?](https://towardsdatascience.com/what-is-intelligence-a69cbd8bb1b4)
 * [What Is the Difference Between Ridge Regression, the LASSO and ElasticNet?](https://blog.alexlenail.me/what-is-the-difference-between-ridge-regression-the-lasso-and-elasticnet-ec19c71c9028)
 * [What Statisticians Think About Data Scientists](https://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists)
 * [What to Do with "Small" Data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
