@@ -228,6 +228,7 @@
 * [Dataism: God Is in the Algorithm](https://medium.com/understanding-us/dataism-god-is-in-the-algorithm-84af800205cd)
 * [Elon Musk Just Told a Group of America's Governors That We Need to Regulate AI Before It's Too Late](https://www.recode.net/2017/7/15/15976744/elon-musk-artificial-intelligence-regulations-ai)
 * [Facebook Uses Artificial Intelligence to Predict Your Future Actions for Advertisers, Says Confidential Document](https://medium.com/theintercept/facebook-uses-artificial-intelligence-to-predict-your-future-actions-for-advertisers-says-bd4377abcbca)
+* [Finally, a Machine That Can Finish Your Sentence](https://medium.com/the-new-york-times/finally-a-machine-that-can-finish-your-sentence-b322a16d4199)
 * [A Fundamental Theory to Model the Mind](https://www.quantamagazine.org/toward-a-theory-of-self-organized-criticality-in-the-brain-20140403/)
 * [Here's How the US Needs to Prepare for the Age of Artificial Intelligence](https://www.technologyreview.com/s/610379/heres-how-the-us-needs-to-prepare-for-the-age-of-artificial-intelligence/)
 * [How AI-Generated Music Is Changing the Way Hits Are Made](https://www.theverge.com/2018/8/31/17777008/artificial-intelligence-taryn-southern-amper-music)
