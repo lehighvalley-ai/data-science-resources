@@ -67,6 +67,7 @@
 * [How to Do Everything in Computer Vision](https://towardsdatascience.com/how-to-do-everything-in-computer-vision-2b442c469928)
 * [How to Estimate Model Accuracy in R Using The Caret Package](https://machinelearningmastery.com/how-to-estimate-model-accuracy-in-r-using-the-caret-package/)
 * [How to Learn Data Science If You're Broke](https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7)
+* [How to Learn Data Science: Staying Motivated](https://towardsdatascience.com/how-to-learn-data-science-staying-motivated-8665ed649687)
 * [HumL: Better Text Intelligence with Humans in the Loop](https://towardsdatascience.com/huml-better-text-intelligence-with-humans-in-the-loop-66795d864990)
 * [Humanizing Customer Complaints using NLP Algorithms](https://towardsdatascience.com/https-medium-com-vishalmorde-humanizing-customer-complaints-using-nlp-algorithms-64a820cef373)
 * [I Worked with a Data Scientist as a Software Engineer. Here's My Experience.](https://towardsdatascience.com/i-worked-with-a-data-scientist-heres-what-i-learned-2e19c5f5204)
