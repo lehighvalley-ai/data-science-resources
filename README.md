@@ -49,6 +49,7 @@
 * [Deep Transfer Learning for Natural Language Processing—Text Classification with Universal Embeddings](https://towardsdatascience.com/deep-transfer-learning-for-natural-language-processing-text-classification-with-universal-1a2c69e5baa9)
 * [Deploying a Keras Deep Learning Model as a Web Application in Python](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff)
 * [Derivation of Backpropagation](https://www.cs.swarthmore.edu/~meeden/cs81/s10/BackPropDeriv.pdf)
+* [Develop a NLP Model in Python & Deploy It with Flask, Step by Step](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776)
 * [A Dirty Dozen: Twelve p-Value Misconceptions](http://www.perfendo.org/docs/BayesProbability/twelvePvaluemisconceptions.pdf)
 * [An Easy Introduction to Unsupervised Learning with 4 Basic Techniques](https://towardsdatascience.com/an-easy-introduction-to-unsupervised-learning-with-4-basic-techniques-897cb81979fd)
 * [Every Single Machine Learning Course on the Internet, Ranked by Your Reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
