@@ -92,6 +92,7 @@
 * [Maximum Likelihood Estimation: How It Works and Implementing It in Python](https://towardsdatascience.com/maximum-likelihood-estimation-how-it-works-and-implementing-in-python-b0eb2efb360f)
 * [Meet the Man Building an AI That Mimics Our Neocortex–and Could Kill Off Neural Networks](https://www.theregister.co.uk/2014/03/29/hawkins_ai_feature/)
 * [Modern Machine Learning Algorithms: Strengths and Weaknesses](https://elitedatascience.com/machine-learning-algorithms)
+* [The Most in Demand Skills for Data Scientists](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db)
 * [Multi-Class Text Classification Model Comparison and Selection](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
 * [Multi-Class Text Classification with scikit-learn](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
 * [Music Genre Classification with Python](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)
