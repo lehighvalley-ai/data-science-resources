@@ -96,6 +96,7 @@
 * [Outlier Detection with Isolation Forest](https://towardsdatascience.com/outlier-detection-with-isolation-forest-3d190448d45e)
 * [Over 200 of the Best Machine Learning, NLP, and Python Tutorials—2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 * [Parametric and Nonparametric Machine Learning Algorithms](https://machinelearningmastery.com/parametric-and-nonparametric-machine-learning-algorithms/)
+* [Predicting Crash Severity for NZ Road Accidents](https://towardsdatascience.com/predicting-crash-severity-for-nz-road-accidents-6214117e73fb)
 * [Pros and Cons of Neural Networks](https://towardsdatascience.com/hype-disadvantages-of-neural-networks-6af04904ba5b)
 * [The Rare Form of Machine Learning That Can Spot Hackers Who Have Already Broken In](https://www.technologyreview.com/s/612427/the-rare-form-of-machine-learning-that-can-spot-hackers-who-have-already-broken-in/)
 * [R vs. Python for Data Science: Summary of Modern Advances](https://elitedatascience.com/r-vs-python-for-data-science)
