@@ -48,6 +48,7 @@
 * [Data Science—Curse of Dimensionality](https://medium.com/@kguruswamy_37814/data-science-curse-of-dimensionality-34e018958299)
 * [Dealing with Imbalanced Classes in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)
 * [Deep Learning Framework Power Scores 2018](https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a)
+* [Deep Learning Frameworks Comparison–Tensorflow, PyTorch, Keras, MXNet, The Microsoft Cognitive Toolkit, Caffe, Deeplearning4j, Chainer](https://www.netguru.com/blog/deep-learning-frameworks-comparison)
 * [Deep Transfer Learning for Natural Language Processing—Text Classification with Universal Embeddings](https://towardsdatascience.com/deep-transfer-learning-for-natural-language-processing-text-classification-with-universal-1a2c69e5baa9)
 * [Deploying a Keras Deep Learning Model as a Web Application in Python](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff)
 * [Derivation of Backpropagation](https://www.cs.swarthmore.edu/~meeden/cs81/s10/BackPropDeriv.pdf)
