@@ -268,6 +268,7 @@
 * [Who's Winning the Self-Driving Car Race?](https://medium.com/bloomberg/whos-winning-the-self-driving-car-race-39ed1aa58e93)
 * [Why AI Will Not Replace Radiologists](https://towardsdatascience.com/why-ai-will-not-replace-radiologists-c7736f2c7d80)
 * [Why Alibaba Is Betting Big on AI Chips and Quantum Computing](https://medium.com/mit-technology-review/why-alibaba-is-betting-big-on-ai-chips-and-quantum-computing-a5bebd7a6b04)
+* [Why Farmers Are Turning to AI to Boost Yields](https://medium.com/s/ai-for-good/why-farmers-are-turning-to-ai-to-boost-yields-379744fa25f3)
 * [Why the Robot Boost Is Yet to Arrive](https://medium.com/financial-times/why-the-robot-boost-is-yet-to-arrive-95c69db7fd22)
 * [Why the US Is Backing Killer Robots](https://www.popularmechanics.com/military/research/a23133118/us-ai-robots-warfare/)
 * [Will the Geneva Convention Cover Robots?](https://medium.com/s/story/will-the-geneva-convention-cover-robots-24e7501146d)
