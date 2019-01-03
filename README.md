@@ -230,6 +230,7 @@
 * [Facebook Uses Artificial Intelligence to Predict Your Future Actions for Advertisers, Says Confidential Document](https://medium.com/theintercept/facebook-uses-artificial-intelligence-to-predict-your-future-actions-for-advertisers-says-bd4377abcbca)
 * [Finally, a Machine That Can Finish Your Sentence](https://medium.com/the-new-york-times/finally-a-machine-that-can-finish-your-sentence-b322a16d4199)
 * [A Fundamental Theory to Model the Mind](https://www.quantamagazine.org/toward-a-theory-of-self-organized-criticality-in-the-brain-20140403/)
+* [Here Are 27 Expert Predictions on How You'll Live With Artificial Intelligence in the Near Future](https://medium.com/inc./here-are-27-expert-predictions-on-how-youll-live-with-artificial-intelligence-in-the-near-future-75e9f3777453)
 * [Here's How the US Needs to Prepare for the Age of Artificial Intelligence](https://www.technologyreview.com/s/610379/heres-how-the-us-needs-to-prepare-for-the-age-of-artificial-intelligence/)
 * [How AI-Generated Music Is Changing the Way Hits Are Made](https://www.theverge.com/2018/8/31/17777008/artificial-intelligence-taryn-southern-amper-music)
 * [How Big Data Is Changing Genetic Research](http://digg.com/2018/big-data-science-genetics)
