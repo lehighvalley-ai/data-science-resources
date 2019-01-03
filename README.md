@@ -130,6 +130,7 @@
 * [Which One to Use—RandomForest vs. SVM vs. KNN?](https://discuss.analyticsvidhya.com/t/which-one-to-use-randomforest-vs-svm-vs-knn/2897)
 * [Why Do We Need Causality in Data Science?](https://towardsdatascience.com/why-do-we-need-causality-in-data-science-aec710da021e)
 * [Why Use Machine Learning Instead of Traditional Statistics?](https://towardsdatascience.com/why-use-machine-learning-instead-of-traditional-statistics-334c2213700a)
+* [Why You Should Care About the Nate Silver vs. Nassim Taleb Twitter War](https://towardsdatascience.com/why-you-should-care-about-the-nate-silver-vs-nassim-taleb-twitter-war-a581dce1f5fc)
 * [Why You Shouldn't Be a Data Science Generalist](https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69ea37cdd2c)
 * [Wikipedia Data Science: Working with the World's Largest Encyclopedia](https://towardsdatascience.com/wikipedia-data-science-working-with-the-worlds-largest-encyclopedia-c08efbac5f5c)
 
