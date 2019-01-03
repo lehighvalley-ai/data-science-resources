@@ -239,6 +239,7 @@
 * [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
 * [The Pentagon Could Get Self-Driving Vehicles First](https://medium.com/bloomberg/the-pentagon-could-get-self-driving-vehicles-first-1505cd3e16f3)
 * [A Radical New Neural Network Design Could Overcome Big Challenges in AI](https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/)
+* [The Real Payoff From Artificial Intelligence Is Still a Decade Off](https://medium.com/foreign-policy/the-real-payoff-from-artificial-intelligence-is-still-a-decade-off-8b1ebb6fd04e)
 * ["The Relentless Pace of Automation"](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/)
 * [Robot Rides Are Going to Deliver Pizza and Parcels Before People](https://medium.com/bloomberg/robot-rides-are-going-to-deliver-pizza-and-parcels-before-people-c44e64d60984)
 * [Robots Will Transform Fast Food](https://medium.com/the-atlantic/robots-will-transform-fast-food-5e2a40170d56)
