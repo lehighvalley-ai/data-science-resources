@@ -9,6 +9,8 @@
 * [5 Reasons Why Businesses Struggle to Adopt Deep Learning](https://towardsdatascience.com/5-reasons-why-businesses-struggle-to-adopt-deep-learning-85205e11d69a)
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
 * [The 6 Most Useful Machine Learning Projects of the Past Year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f)
+* [The 7 NLP Techniques That Will Change How You Communicate in the Future (Part I)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-i-f0114b2f0497)
+* [The 7 NLP Techniques That Will Change How You Communicate in the Future (Part II)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-ii-636ab06da258)
 * [10 Data Science Tools I Explored in 2018](https://towardsdatascience.com/10-data-science-tools-i-explored-in-2018-d8226f99f342)
 * [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1)
 * [10 Reasons Why Data Scientists Need To Learn Java](https://jaxenter.com/data-scientists-need-to-learn-java-139449.html) (but be careful about books from Packt Publishing: most of them **suck** and their review averages are held up by shills)
