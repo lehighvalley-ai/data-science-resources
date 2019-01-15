@@ -115,6 +115,7 @@
 * [R vs. Python for Data Science: Summary of Modern Advances](https://elitedatascience.com/r-vs-python-for-data-science)
 * [RL—Introduction to Deep Reinforcement Learning](https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199)
 * [The Random Forest Algorithm](https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd)
+* [Recurrent Neural Networks: The Powerhouse of Language Modeling](https://medium.com/cracking-the-data-science-interview/recurrent-neural-networks-the-powerhouse-of-language-modeling-f292c918b879)
 * [Reinforcement Learning with Python](https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2)
 * [Roadmap for Conquering Computer Vision](https://towardsdatascience.com/roadmap-for-conquering-computer-vision-213695472ad0)
 * [scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/) (the section on which algorithm to use is *especially* useful)
