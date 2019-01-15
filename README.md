@@ -254,6 +254,7 @@
 * ["Killer Robots": AI Experts Call for Boycott Over Lab at South Korea University](https://www.theguardian.com/technology/2018/apr/05/killer-robots-south-korea-university-boycott-artifical-intelligence-hanwha)
 * [A Look at the Surprisingly Quarrelsome Field of Artificial Intelligence](https://www.axios.com/artificial-intelligence-disagreements-machine-learning-d26ef884-b415-43c6-aff2-d17a05483389.html)
 * [Machine Learning Confronts the Elephant in the Room](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
+* [The Most Powerful Person in Silicon Valley](https://www.fastcompany.com/90285552/the-most-powerful-person-in-silicon-valley)
 * [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
 * [The Pentagon Could Get Self-Driving Vehicles First](https://medium.com/bloomberg/the-pentagon-could-get-self-driving-vehicles-first-1505cd3e16f3)
 * [A Radical New Neural Network Design Could Overcome Big Challenges in AI](https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/)
