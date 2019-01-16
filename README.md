@@ -255,6 +255,7 @@
 * [Is the Digital Revolution Sowing the Seeds of a Techno-Fascist Future?](https://truthout.org/articles/is-the-digital-revolution-sowing-the-seeds-of-a-techno-fascist-future/)
 * ["Killer Robots": AI Experts Call for Boycott Over Lab at South Korea University](https://www.theguardian.com/technology/2018/apr/05/killer-robots-south-korea-university-boycott-artifical-intelligence-hanwha)
 * [A Look at the Surprisingly Quarrelsome Field of Artificial Intelligence](https://www.axios.com/artificial-intelligence-disagreements-machine-learning-d26ef884-b415-43c6-aff2-d17a05483389.html)
+* [Machine Behavior Needs to Be an Academic Discipline](https://medium.com/@NautilusMag/machine-behavior-needs-to-be-an-academic-discipline-f563347ab886)
 * [Machine Learning Confronts the Elephant in the Room](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
 * [The Most Powerful Person in Silicon Valley](https://www.fastcompany.com/90285552/the-most-powerful-person-in-silicon-valley)
 * [Never Mind Killer Robots—Here Are 6 Real AI Dangers to Watch Out for in 2019](https://medium.com/mit-technology-review/never-mind-killer-robots-here-are-6-real-a-i-dangers-to-watch-out-for-in-2019-b50c239b82b8)
