@@ -117,6 +117,7 @@
 * [The Random Forest Algorithm](https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd)
 * [Recurrent Neural Networks: The Powerhouse of Language Modeling](https://medium.com/cracking-the-data-science-interview/recurrent-neural-networks-the-powerhouse-of-language-modeling-f292c918b879)
 * [Reinforcement Learning with Python](https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2)
+* [Reinforcement Learning without Gradients: Evolving Agents Using Genetic Algorithms](https://towardsdatascience.com/reinforcement-learning-without-gradients-evolving-agents-using-genetic-algorithms-8685817d84f)
 * [Roadmap for Conquering Computer Vision](https://towardsdatascience.com/roadmap-for-conquering-computer-vision-213695472ad0)
 * [scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/) (the section on which algorithm to use is *especially* useful)
 * [See Robot Play: an Exploration of Curiosity in Humans and Machines](https://towardsdatascience.com/see-robot-play-an-exploration-of-curiosity-in-humans-and-machines-b384b61b0f7b)
