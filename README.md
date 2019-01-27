@@ -234,6 +234,7 @@
 * [AI Has Grown Up and Left Home](https://medium.com/@NautilusMag/a-i-has-grown-up-and-left-home-814ff2733185)
 * [Brain Implants Are Happening—Are You Ready for Yours?](https://thenextweb.com/contributors/2018/03/10/brain-implants-happening-ready/)
 * [Can a Machine Be Conscious?](https://motherboard.vice.com/en_us/article/bj7vda/can-a-machine-be-conscious)
+* [Can We Be Friends with Robots?](https://medium.com/s/when-robots-rule-the-world/can-we-be-friends-with-robots-64b4447e6c08)
 * [China Wants to Shape the Global Future of Artificial Intelligence](https://www.technologyreview.com/s/610546/china-wants-to-shape-the-global-future-of-artificial-intelligence/)
 * [China's AI Awakening (中国 人工智能 的崛起)](https://www.technologyreview.com/s/609038/chinas-ai-awakening/)
 * [China's Leaders Are Softening Their Stance on AI](https://www.technologyreview.com/s/612141/chinas-leaders-are-calling-for-international-collaboration-on-ai/)
