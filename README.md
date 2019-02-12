@@ -151,6 +151,7 @@
 * [Which Is Better for Data Analysis: R or Python? Is R Still a Better Data Analysis Language Than Python?](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python-Is-R-still-a-better-data-analysis-language-than-Python-Has-anyone-else-used-Python-with-Pandas-to-a-large-extent-in-data-analysis-projects)
 * [Which Machine Learning Algorithm to Choose for My Problem?](https://recast.ai/blog/machine-learning-algorithms/)
 * [Which One to Use—RandomForest vs. SVM vs. KNN?](https://discuss.analyticsvidhya.com/t/which-one-to-use-randomforest-vs-svm-vs-knn/2897)
+* [Why Can a Machine Beat Mario But Not Pokémon?](https://towardsdatascience.com/why-can-a-machine-beat-mario-but-not-pokemon-ff61313187e1)
 * [Why Do We Need Causality in Data Science?](https://towardsdatascience.com/why-do-we-need-causality-in-data-science-aec710da021e)
 * [Why Use Machine Learning Instead of Traditional Statistics?](https://towardsdatascience.com/why-use-machine-learning-instead-of-traditional-statistics-334c2213700a)
 * [Why You Should Care About the Nate Silver vs. Nassim Taleb Twitter War](https://towardsdatascience.com/why-you-should-care-about-the-nate-silver-vs-nassim-taleb-twitter-war-a581dce1f5fc)
