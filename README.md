@@ -22,6 +22,7 @@
 * [50 External Machine Learning / Data Science Resources and Articles](https://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [66 Job Interview Questions for Data Scientists](https://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
 * [2018's Top 7 Libraries and Packages for Data Science and AI: Python & R](https://heartbeat.fritz.ai/top-7-libraries-and-packages-of-the-year-for-data-science-and-ai-python-r-6b7cca2bf000)
+* [Advances in Generative Adversarial Networks (GANs)](https://medium.com/beyondminds/advances-in-generative-adversarial-networks-7bad57028032)
 * [Applications of Reinforcement Learning in Real World](https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12)
 * [Audio Classification using FastAI and On-the-Fly Frequency Transforms](https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89)
 * [A Beginner's Guide on Sentiment Analysis with RNN](https://towardsdatascience.com/a-beginners-guide-on-sentiment-analysis-with-rnn-9e100627c02e)
