@@ -40,6 +40,7 @@
 * [Convolutional Neural Networks for Beginners: Practical Guide with Python and Keras](https://towardsdatascience.com/convolutional-neural-networks-for-beginners-practical-guide-with-python-and-keras-dc688ea90dca)
 * [Complete Guide to Parameter Tuning in XGBoost (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 * [A Comprehensive Beginners Guide for Linear, Ridge and Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
+* [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
 * [Curious About How to Be a Data Scientist? Hear From a Netflix Data Scientist](https://towardsdatascience.com/a-peek-into-a-netflix-data-scientists-day-66bf3dacabb9)
 * [Custom Loss Functions for Deep Learning: Predicting Home Values with Keras for R](https://towardsdatascience.com/custom-loss-functions-for-deep-learning-predicting-home-values-with-keras-for-r-532c9e098d1f)
 * [Custom Loss Functions for Gradient Boosting](https://towardsdatascience.com/custom-loss-functions-for-gradient-boosting-f79c1b40466d)
