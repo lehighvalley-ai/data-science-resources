@@ -273,6 +273,7 @@
 * [A Radical New Neural Network Design Could Overcome Big Challenges in AI](https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/)
 * [The Real Payoff From Artificial Intelligence Is Still a Decade Off](https://medium.com/foreign-policy/the-real-payoff-from-artificial-intelligence-is-still-a-decade-off-8b1ebb6fd04e)
 * ["The Relentless Pace of Automation"](https://www.technologyreview.com/s/603465/the-relentless-pace-of-automation/)
+* [Researchers, Scared by Their Own Work, Hold Back "Deepfakes for Text" AI](https://arstechnica.com/information-technology/2019/02/researchers-scared-by-their-own-work-hold-back-deepfakes-for-text-ai/)
 * [Robot Rides Are Going to Deliver Pizza and Parcels Before People](https://medium.com/bloomberg/robot-rides-are-going-to-deliver-pizza-and-parcels-before-people-c44e64d60984)
 * [Robots Will Transform Fast Food](https://medium.com/the-atlantic/robots-will-transform-fast-food-5e2a40170d56)
 * [Sorry, Y'All—Humanity's Nearing an Upgrade to Irrelevance](https://www.wired.com/2017/02/yuval-harari-tech-is-the-new-religion/)
