@@ -116,6 +116,7 @@
 * [Predicting Crash Severity for NZ Road Accidents](https://towardsdatascience.com/predicting-crash-severity-for-nz-road-accidents-6214117e73fb)
 * [Pros and Cons of Neural Networks](https://towardsdatascience.com/hype-disadvantages-of-neural-networks-6af04904ba5b)
 * [The Rare Form of Machine Learning That Can Spot Hackers Who Have Already Broken In](https://www.technologyreview.com/s/612427/the-rare-form-of-machine-learning-that-can-spot-hackers-who-have-already-broken-in/)
+* [Top 10 Roles in AI and Data Science](https://hackernoon.com/top-10-roles-for-your-data-science-team-e7f05d90d961)
 * [R vs. Python for Data Science: Summary of Modern Advances](https://elitedatascience.com/r-vs-python-for-data-science)
 * [RL—Introduction to Deep Reinforcement Learning](https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199)
 * [The Random Forest Algorithm](https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd)
