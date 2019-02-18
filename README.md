@@ -135,6 +135,7 @@
 * [Stop Installing Tensorflow Using pip for Performance Sake!](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c)
 * [Text Classification with State of the Art NLP Library—Flair](https://towardsdatascience.com/text-classification-with-state-of-the-art-nlp-library-flair-b541d7add21f)
 * [The Three Breakthroughs That Have Finally Unleashed AI on the World](https://www.wired.com/2014/10/future-of-artificial-intelligence/)
+* [Top 8 Sources For Machine Learning and Analytics Datasets](https://medium.com/datadriveninvestor/top-8-sources-for-machine-learning-and-analytics-datasets-5d2d94ada8ab)
 * [Top 10 Machine Learning Algorithms](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202)
 * [Top Examples of Why Data Science is Not Just .fit().predict()](https://towardsdatascience.com/top-examples-of-why-data-science-is-not-just-fit-predict-ce7a13ef7663)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
