@@ -344,6 +344,7 @@
 * [StatLib](http://lib.stat.cmu.edu/datasets/)
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 * [UNICEF Data](https://data.unicef.org/)
+* [VisualData](https://www.visualdata.io/)
 * [Weka Colections of Datasets](https://www.cs.waikato.ac.nz/ml/weka/datasets.html) (from the same university as the BOfH)
 * [Wikipedia's Instructions on Database Downloads](https://cloud.google.com/bigquery/public-data/)
 * [World Bank Open Data](https://data.worldbank.org/)
