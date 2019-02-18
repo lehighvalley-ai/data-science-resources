@@ -332,6 +332,7 @@
 * [Insight Project Datasets](http://mlg.ucd.ie/datasets/)
 * [John Burkhardt's Datasets](https://people.sc.fsu.edu/~jburkardt/datasets/datasets.html)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Microsoft Research Open Data](https://msropendata.com/)
 * [ModelDepot](https://modeldepot.io/)
 * [OR-Brescia Instances](http://or-brescia.unibs.it/instances)
 * [OR-LIBRARY](people.brunel.ac.uk/~mastjjb/jeb/info.html)
