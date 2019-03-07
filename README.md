@@ -69,6 +69,7 @@
 * [How Do We Decide Which Machine Learning Algorithm to Use for a Specified Problem?](https://www.researchgate.net/post/How_do_we_decide_which_machine_learning_algorithm_to_use_for_a_specified_problem)
 * [How I Learned Data Science the Hard Way in 2018](https://towardsdatascience.com/how-i-learned-data-science-the-hard-way-in-2018-6ae4aa21cd6)
 * [How to Ask the Right Questions as a Data Scientist](https://towardsdatascience.com/how-to-ask-the-right-questions-as-a-data-scientist-913621907411)
+* [How to Automatically Import Your Favorite Libraries Into IPython or a Jupyter Notebook](https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343)
 * [How to Build a Data Science Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
 * [How to Build Your Own Neural Network from Scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 * [How to Develop Your First XGBoost Model in Python with scikit-learn](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
