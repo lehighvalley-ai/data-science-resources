@@ -244,6 +244,7 @@
 * [AI on Android Mobile Phones Still a Work-in-Progress](https://www.zdnet.com/article/ai-on-android-mobile-phones-still-a-work-in-progress/)
 * [AI Has Grown Up and Left Home](https://medium.com/@NautilusMag/a-i-has-grown-up-and-left-home-814ff2733185)
 * [AlphaGo Zero Shows How Business Is Losing the Innovation Game](https://medium.com/financial-times/alphago-zero-shows-how-business-is-losing-the-innovation-game-f13ea805c17c)
+* [Artificial Intelligence: When Humans Coexist with Robots](https://medium.com/financial-times/artificial-intelligence-when-humans-coexist-with-robots-fb251b5ade0f)
 * [Brain Implants Are Happening—Are You Ready for Yours?](https://thenextweb.com/contributors/2018/03/10/brain-implants-happening-ready/)
 * [Can a Machine Be Conscious?](https://motherboard.vice.com/en_us/article/bj7vda/can-a-machine-be-conscious)
 * [Can We Be Friends with Robots?](https://medium.com/s/when-robots-rule-the-world/can-we-be-friends-with-robots-64b4447e6c08)
